@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header */
+.container{
+    width: 90%;
+    margin: 0% 10% 0% 10%;
+}
+.d-flex{
+    display: flex;
+}
+.half-width{
+    width: 45%;
+}
+.margin{
+    margin-top: 100px;
+}
+.heading-style{
+    font-size: 50px;
+    color: #575757;
+}
+.skip-color{
+    color: #FB934A;
+}
+.pera-style{
+    font-size: 20px;
+    color: grey;
+    margin: 40px 0px;
+    padding-bottom: 10px;
+}
+.btn-style{
+    text-decoration: none;
+    font-size: 20px;
+    color:white;
+    border: white;
+    background: linear-gradient(#FB8F48,#FD5432);
+    border-radius: 50px;
+    font-weight: 700;
+    padding: 15px 30px;
+}
+/* maine */
+/* section-1 */
+.section-bg{
+    background: url(./images/shapes/7.png);
+    margin-top: 100px;
+}
+.image-width{
+    width: 60%;
+    padding-top: 8%;
+    vertical-align: middle;
+}
+.h1-style{
+    font-size: 40px;
+    color: #707070;
+    padding-top: 130px;
+}
+.p-style{
+    font-size: 15px;
+    padding-top: 12px;
+    margin-bottom: 40px;
+    width: 500px;
+}
+/* section-2 */
+.Recipies-style{
+    color: #6f6f6f;
+    font-size: 35px;
+    padding-top: 15px;
+    margin: 30px 0px 10px 0px;
+}
+.text-center{
+    text-align: center;
+}
+.ph-style{
+    font-size: 15px;
+    text-align: center;
+}
+.card-style{
+    width: 30%;
+    padding: 1%;
+    box-shadow: 0 0 10px 2px rgb(179, 179, 179);
+    border-radius: 10px;   
+}
+.card-img-width{
+   width: 100%;  
+}
+.Recipie-Title{
+    padding: 20px 0px;
+}
+.recipie-pera{
+    padding-bottom: 30px;
+}
+.card2-style{
+    margin: 0px 40px;
+}
+.cards-style{
+    padding-top: 50px;
+    margin: 0 auto;
+    margin-right: 115px;
+}
+.margin-btm{
+    margin-bottom: 80px;
+}
+/* follower-style */
+.box-style{
+    box-shadow: 0px 0px 10px 2px rgb(216,216,217);
+    display: flex;   
+    padding: 35px 50px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    margin-right: 130px;
+}
+.flwr-padding{
+    padding: 0 97px;
+}
+.follower-font-size{
+    font-size: 50px;
+    margin: 0;
+}
+/* footer */
+.footer-bg{
+    background-color: #0B0D17;
+}
+.Food-color{
+    color: orange;
+}
+.h-1-style{
+    color: rgb(138, 134, 134);
+    padding: 30px 0;
+    font-size: 30px;
+    margin: 0;
+}
+.f-p-style{
+    font-size: 15px;
+    color: white;
+    margin: 0;
+    padding-bottom: 90px;    
+}
